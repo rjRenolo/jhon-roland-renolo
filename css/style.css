@@ -517,6 +517,10 @@ body.section-switching.up .animation-block{
 	vertical-align:middle;
 }
 
+.skill-ico{
+	fill:white; max-height:24px;max-width:24px;
+}
+
 
 
 /*=======================================================
